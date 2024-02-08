@@ -1,0 +1,5 @@
+# Build-specific ignores
+__pycache__/
+build/
+dist/
+*.spec
