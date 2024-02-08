@@ -1,5 +1,8 @@
-# Build-specific ignores
+# Python-specific ignores
 __pycache__/
+venv/
+
+# Build-specific ignores
 build/
 dist/
 *.spec
