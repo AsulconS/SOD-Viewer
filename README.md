@@ -13,10 +13,10 @@
 
  ## How to run it?
 
- ### Executing the binaries:
+ ### Option 1: Executing the binaries:
   - Just go the lastest release <a href="https://github.com/AsulconS/SOD-Viewer/releases/tag/v0.1.0"><img src="https://img.shields.io/github/v/release/AsulconS/SOD-Viewer"></a>, download and run the `sod.exe` executable.
 
- ### Using a Python Virtual Environment:
+ ### Option 2: Using a Python Virtual Environment:
   1. Create a python virtual environment usign the following command:
      ```
      python -m venv venv
