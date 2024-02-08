@@ -9,13 +9,18 @@
 
  SOD-Viewer is a graphical tool based on CTk and written in Python aimed at the visualization of a Second Order Dynamics numerical approach by parameter tuning.
 
+ ## Requirements
+  Running `SOD-Viewer` requires:
+  - Python 3.12
+  - Cascadia Code font (optional, but recommended for a better-looking interface). You can download it from https://github.com/microsoft/cascadia-code
+
  ## How to run it?
 
  ### Option 1: Executing the binaries:
   - Just go the lastest release <a href="https://github.com/AsulconS/SOD-Viewer/releases/tag/v0.1.0"><img src="https://img.shields.io/github/v/release/AsulconS/SOD-Viewer"></a>, download and run the `sod.exe` executable.
 
  ### Option 2: Using a Python Virtual Environment:
-  1. Create a python virtual environment usign the following command:
+  1. Create a Python virtual environment using the following command:
      ```
      python -m venv venv
      ```
